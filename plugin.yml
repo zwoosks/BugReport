@@ -1,0 +1,13 @@
+name: BugsHelper
+main: me.zwoosks.reportbugs.BugReport
+version: 1.0
+commands:
+   bug:
+      description: Reporta un bug.
+      usage: /<command>
+   verbugs:
+      description: Ver los bugs reportados.
+      usage: /<command>
+   eliminarbug:
+      description: Eliminar un bug ya fixeado.
+      usage: /<command>
